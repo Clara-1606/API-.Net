@@ -1,0 +1,244 @@
+2021-01-15T08:14:40.6744790+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T08:14:40.6860176+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T08:14:40.6894772+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T08:15:02.0400506+01:00 8000000e-0005-ff00-b63f-84710c7967bb [ERR] Object reference not set to an instance of an object. (f59a5554)
+2021-01-15T08:15:14.3021429+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T08:15:14.3192676+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T08:15:14.3220275+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T08:19:08.0276802+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T08:19:08.0416394+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T08:19:08.0447498+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T08:29:57.8474237+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T08:29:57.8615472+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T08:29:57.8646257+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T08:31:22.1888329+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T08:31:22.2074960+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T08:31:22.2123389+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T08:33:37.2134030+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T08:33:37.2252127+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T08:33:37.2286608+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T08:41:26.7506050+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T08:41:26.7734570+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T08:41:26.7787770+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T08:48:08.3905888+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T08:48:08.4086516+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T08:48:08.4108852+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T08:52:08.9904209+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T08:52:09.0139339+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T08:52:09.0189642+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T09:00:18.7909139+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T09:00:18.8026040+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T09:00:18.8064905+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T09:01:45.9710729+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T09:01:45.9914454+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T09:01:45.9969450+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T09:03:30.0885413+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T09:03:30.1064905+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T09:03:30.1090562+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T09:06:42.4539551+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T09:06:42.4679432+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T09:06:42.4702500+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T09:08:26.4502052+01:00 80000010-0001-ff00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("25"ms) [Parameters=["@p0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DELETE FROM [Users]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;" (627a98df)
+2021-01-15T09:08:26.7172047+01:00 80000010-0001-ff00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"Demonstration.DAL.DemonstrationContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): L'instruction DELETE est en conflit avec la contrainte REFERENCE \"FK_Tasks_Users_UserId\". Le conflit s'est produit dans la base de données \"TPApi\", table \"dbo.Tasks\", column 'UserId'.
+L'instruction a été arrêtée.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7e991aaf-bca5-4f42-9fa4-4ceaf3bc42d4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): L'instruction DELETE est en conflit avec la contrainte REFERENCE "FK_Tasks_Users_UserId". Le conflit s'est produit dans la base de données "TPApi", table "dbo.Tasks", column 'UserId'.
+L'instruction a été arrêtée.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7e991aaf-bca5-4f42-9fa4-4ceaf3bc42d4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Demonstration.BL.UserService.DeleteUser(Int32 id) in C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\Services\UserService.cs:line 34
+2021-01-15T09:08:27.0400092+01:00 80000010-0001-ff00-b63f-84710c7967bb [ERR] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2021-01-15T09:09:38.2296045+01:00 80000010-0001-ff00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Exception: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): L'instruction DELETE est en conflit avec la contrainte REFERENCE "FK_Tasks_Users_UserId". Le conflit s'est produit dans la base de données "TPApi", table "dbo.Tasks", column 'UserId'.
+L'instruction a été arrêtée.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7e991aaf-bca5-4f42-9fa4-4ceaf3bc42d4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Demonstration.BL.UserService.DeleteUser(Int32 id) in C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\Services\UserService.cs:line 34
+   --- End of inner exception stack trace ---
+   at Demonstration.BL.UserService.DeleteUser(Int32 id) in C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\Services\UserService.cs:line 41
+   at Demonstration.Controllers.UserController.Delete(Int32 id) in C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration\Controllers\UserController.cs:line 56
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-01-15T09:09:42.8443049+01:00 80000013-000b-ff00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("4"ms) [Parameters=["@p0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DELETE FROM [Users]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;" (627a98df)
+2021-01-15T09:09:42.8572514+01:00 80000013-000b-ff00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"Demonstration.DAL.DemonstrationContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): L'instruction DELETE est en conflit avec la contrainte REFERENCE \"FK_Tasks_Users_UserId\". Le conflit s'est produit dans la base de données \"TPApi\", table \"dbo.Tasks\", column 'UserId'.
+L'instruction a été arrêtée.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7e991aaf-bca5-4f42-9fa4-4ceaf3bc42d4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): L'instruction DELETE est en conflit avec la contrainte REFERENCE "FK_Tasks_Users_UserId". Le conflit s'est produit dans la base de données "TPApi", table "dbo.Tasks", column 'UserId'.
+L'instruction a été arrêtée.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7e991aaf-bca5-4f42-9fa4-4ceaf3bc42d4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Demonstration.BL.UserService.DeleteUser(Int32 id) in C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\Services\UserService.cs:line 34
+2021-01-15T09:09:42.9116604+01:00 80000013-000b-ff00-b63f-84710c7967bb [ERR] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2021-01-15T09:14:52.3762929+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T09:14:52.4032785+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T09:14:52.4086269+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T09:27:35.5266146+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T09:27:35.5427314+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T09:27:35.5464648+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T09:45:29.6975248+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T09:45:29.7125944+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T09:45:29.7153336+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T09:48:40.1994078+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T09:48:40.2114019+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T09:48:40.2151212+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-15T09:48:50.7495984+01:00 8000000f-0000-ff00-b63f-84710c7967bb [ERR] State doesn't exist (b8c953cd)
+2021-01-15T09:50:23.3080657+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-15T09:50:23.3212558+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-15T09:50:23.3243096+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)

@@ -1,0 +1,143 @@
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\appsettings.json
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.DAL.exe
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.exe
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.deps.json
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.runtimeconfig.json
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.runtimeconfig.dev.json
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.pdb
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.DAL.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.DAL.pdb
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.csprojAssemblyReference.cache
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.AssemblyInfoInputs.cache
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.AssemblyInfo.cs
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.RazorTargetAssemblyInfo.cache
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.csproj.CopyComplete
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\staticwebassets\Demonstration.BL.StaticWebAssets.Manifest.cache
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\staticwebassets\Demonstration.BL.StaticWebAssets.xml
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.pdb
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.genruntimeconfig.cache
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.csproj.CoreCompileInputs.cache
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.MvcApplicationPartsAssemblyInfo.cache
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\AutoEntreprise\Ynov\B2\VisualStudio\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.DAL.exe
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.exe
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.deps.json
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.runtimeconfig.json
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.runtimeconfig.dev.json
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.BL.pdb
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.DAL.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.DAL.pdb
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.AssemblyInfoInputs.cache
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.AssemblyInfo.cs
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.csproj.CoreCompileInputs.cache
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\staticwebassets\Demonstration.BL.StaticWebAssets.Manifest.cache
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\staticwebassets\Demonstration.BL.StaticWebAssets.xml
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\scopedcss\bundle\Demonstration.BL.styles.css
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.RazorTargetAssemblyInfo.cache
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.csproj.CopyComplete
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.dll
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.pdb
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.genruntimeconfig.cache
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.DAL.deps.json
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.DAL.runtimeconfig.json
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\bin\Debug\netcoreapp3.1\Demonstration.DAL.runtimeconfig.dev.json
+C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration.BL\obj\Debug\netcoreapp3.1\Demonstration.BL.csproj.AssemblyReference.cache

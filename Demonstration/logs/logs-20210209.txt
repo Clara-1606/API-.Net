@@ -1,0 +1,6 @@
+2021-02-09T18:27:00.8013187+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-02-09T18:27:00.8290262+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-02-09T18:27:00.8317324+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-02-09T20:05:46.3101982+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-02-09T20:05:46.3398332+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-02-09T20:05:46.3452366+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)

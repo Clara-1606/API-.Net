@@ -1,0 +1,7 @@
+2021-01-14T17:24:26.0168009+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-14T17:24:26.0420784+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-14T17:24:26.0465238+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
+2021-01-14T17:25:07.9743718+01:00 8000000c-0005-ff00-b63f-84710c7967bb [ERR] Value cannot be null. (Parameter 'key') (6338238d)
+2021-01-14T17:26:20.6471228+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-01-14T17:26:20.6686058+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-01-14T17:26:20.6726984+01:00  [INF] Content root path: "C:\Users\clara\Documents\Ynov\B2\Architecture Logiciel\Cours 1 Net\TP\Demonstration\Demonstration" (b5d60022)
